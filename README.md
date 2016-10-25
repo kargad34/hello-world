@@ -1,2 +1,2 @@
 # hello-world
-kick off
+kick off project for learning git hub
